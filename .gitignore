@@ -1,0 +1,27 @@
+.DS_Store
+
+# Python binary and C extensions
+*.py[cod]
+*.so
+
+# Other ignorables
+*.old
+*.orig
+*.log
+*.dat
+*.bak
+*~
+*.swp
+*.db
+
+_notes
+
+# Packages
+*.egg-info
+dist
+build
+eggs
+.installed.cfg
+tmp
+
+.idea
